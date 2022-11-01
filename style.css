@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Katibeh&display=swap');
+
+h1{
+    font-family: Dancing Script, sans-serif;
+    text-align: center;
+    color: #d0be74;
+    font-size: 50px;
+}
+
+body{
+    background-color: black;
+}
+
+h2{
+    font-family:  Katibeh, sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+}
+
+.foto {
+
+    text-align: justify;
+    padding: 20px;
+    border-radius: 10px ;
+}
+
+.foto img{ 
+  display: block;
+  margin: auto;
+}
+
+p{
+    color: white;
+    font-size: 18px;
+}
+
+.sobrenos {
+    text-align: center; 
+}
+
+.Isadora {
+    background-color: #d0be74;
+    display: inline-block;
+    height: 430px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.Isadora a{
+    color: white;
+    background-color: black;
+    font-family: Poppins, sans-serif;
+    text-align: center;
+    border-radius: 10px;
+    display: grid;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.Isadora p{
+    color: black;
+    font-family: Poppins, sans-serif;
+    text-align: center;
+    height: 10px;
+}
+
+.Andre {
+    background-color: #d0be74;
+    display: inline-block;
+    height: 430px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.Andre a{
+    color: white;
+    background-color: black;
+    font-family: Poppins, sans-serif;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+    display: grid;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.Andre p{
+    color: black;
+    font-family: Poppins, sans-serif;
+    text-align: center;
+    height: 10px;
+}
+
+.AnaLidia {
+    background-color: #d0be74;
+    display: inline-block;
+    height: 430px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.AnaLidia a{
+    color: white;
+    background-color: black;
+    font-family: Poppins, sans-serif;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+    display: grid;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.AnaLidia p{
+    color: black;
+    font-family: Poppins, sans-serif;
+    text-align: center;
+    height: 10px;
+}
+
+.Raul {
+    background-color: #d0be74;
+    display: inline-block;
+    border-radius: 10px;
+    height: 430px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.Raul a{
+    color: white;
+    background-color: black;
+    font-family: Poppins, sans-serif;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+    display: grid;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.Raul p{
+    color: black;
+    font-family: Poppins, sans-serif;
+    text-align: center;
+    height: 10px;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
